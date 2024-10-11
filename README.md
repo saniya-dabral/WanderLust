@@ -1,2 +1,2 @@
 # WanderLust
-This a project . 
+This a an airbnb website.
